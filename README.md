@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ansaar
-- 👀 I am a driven full stack developer who is passionate and resourceful when it comes to problem-solving, I am pivoting from years of experience in the clinical research field.
+- 👀 I am a driven full stack developer who is passionate and resourceful when it comes to problem-solving, 
+- I am pivoting from years of experience in the clinical research field.
 - 🌱 Full Stack Software Developer
 
 
